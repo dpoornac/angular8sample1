@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular8sample1"
+    }
+  },
+  "defaultProject": "angular8sample1",
+  "cli": {
+    "analytics": "fb8fbb35-9312-4c43-9f00-d459e55133bd"
+  }
 }
